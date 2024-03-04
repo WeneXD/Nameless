@@ -16,4 +16,4 @@ The SQL queries are **NOT** filtered and such are **VULNERABLE** to SQL injectio
 
 You need to manually create the folder in which the images from posts are saved to. Create the folder inside the `img` folder.
 
-No way other way of moderation other than deleting posts manually through SQL queries and deleting the pics from `img/posts`.
+No proper way of moderation other than deleting posts manually through SQL queries and deleting the pics from `img/posts`.
