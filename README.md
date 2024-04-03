@@ -3,7 +3,7 @@ A kind of minimalist social media site with no registration.
 
 Made because I wanted to learn PHP and I had to create something as a school project.
 
-My first ever project made using PHP. 🎉
+My first ever project made that uses PHP. 🎉
 
 ## Recommended environment
 A basic LAMP stack environment is the recommended environment to run this in as it was developed with one.
