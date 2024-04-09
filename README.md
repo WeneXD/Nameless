@@ -1,9 +1,9 @@
 # An image posting site
-A kind of minimalist social media site with no registration.
+A minimalist social media site with no registration.
 
-Made because I wanted to learn PHP and I had to create something as a school project.
+Made because I wanted to learn PHP and I had to create something for school.
 
-My first ever project made that uses PHP. 🎉
+My first ever project that uses PHP. 🎉
 
 ## Recommended environment
 A basic LAMP stack environment is the recommended environment to run this in as it was developed with one.
